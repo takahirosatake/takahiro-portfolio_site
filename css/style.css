@@ -666,6 +666,11 @@ body::before {
   margin-right: 10px;
 }
 
+.sub {
+  letter-spacing: 5px;
+  font-size: 25px;
+}
+
 .sns{
   text-align: center;
   display: block;
