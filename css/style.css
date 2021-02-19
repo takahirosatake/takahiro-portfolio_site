@@ -739,6 +739,7 @@ body::before {
 .capture_video{
   width: 80%;
   margin-top: 20px;
+  height: 300px;
 }
 
 .video{
