@@ -739,6 +739,9 @@ body::before {
 .capture_video{
   width: 80%;
   margin-top: 20px;
+}
+
+.tetris {
   height: 300px;
 }
 
